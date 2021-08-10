@@ -1,1 +1,1 @@
-khwxxg try to create some simple projects for improve myself in cofing swift and iOS development purpose.
+khwxxg try to create some simple projects for improve self in swift coding and iOS development purpose.
